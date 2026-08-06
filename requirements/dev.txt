@@ -16,7 +16,7 @@ aiosignal==1.4.0
     # via -r requirements/runtime-deps.in
 alabaster==1.0.0
     # via sphinx
-annotated-types==0.7.0
+annotated-types==0.8.0
     # via pydantic
 async-timeout==5.0.1 ; python_version < "3.11"
     # via
