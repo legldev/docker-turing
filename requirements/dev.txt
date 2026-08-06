@@ -28,7 +28,7 @@ blockbuster==1.5.26
     # via
     #   -r requirements/lint.in
     #   -r requirements/test.in
-brotli==1.1.0 ; platform_python_implementation == "CPython"
+brotli==1.2.0 ; platform_python_implementation == "CPython"
     # via -r requirements/runtime-deps.in
 build==1.2.2.post1
     # via pip-tools
