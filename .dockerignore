@@ -1,0 +1,14 @@
+.git
+.github
+.pytest_cache
+.mypy_cache
+.tox
+.venv
+__pycache__
+*.py[cod]
+*.so
+build
+dist
+docs
+tests
+CHANGES
