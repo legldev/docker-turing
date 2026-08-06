@@ -52,7 +52,7 @@ click==8.1.8
     #   slotscheck
     #   towncrier
     #   wait-for-it
-coverage==7.9.2
+coverage==7.15.4
     # via
     #   -r requirements/test.in
     #   pytest-cov
@@ -185,7 +185,7 @@ pytest-codspeed==3.2.0
     # via
     #   -r requirements/lint.in
     #   -r requirements/test.in
-pytest-cov==6.2.1
+pytest-cov==7.1.0
     # via -r requirements/test.in
 pytest-mock==3.14.1
     # via
