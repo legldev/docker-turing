@@ -84,7 +84,7 @@ frozenlist==1.7.0
     #   aiosignal
 gidgethub==5.4.0
     # via cherry-picker
-gunicorn==23.0.0
+gunicorn==26.0.0
     # via -r requirements/base.in
 identify==2.6.12
     # via pre-commit
