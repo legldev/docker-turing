@@ -24,7 +24,6 @@ cffi==2.1.1
     # via
     #   cryptography
     #   pycares
-    #   pytest-codspeed
 click==8.1.8
     # via wait-for-it
 coverage==7.15.4
@@ -106,7 +105,7 @@ pytest==8.4.1
     #   pytest-cov
     #   pytest-mock
     #   pytest-xdist
-pytest-codspeed==3.2.0
+pytest-codspeed==5.0.3
     # via -r requirements/test.in
 pytest-cov==7.1.0
     # via -r requirements/test.in
