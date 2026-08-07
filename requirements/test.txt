@@ -45,7 +45,7 @@ frozenlist==1.7.0
     #   aiosignal
 gunicorn==26.0.0
     # via -r requirements/base.in
-idna==3.6
+idna==3.18
     # via
     #   trustme
     #   yarl
