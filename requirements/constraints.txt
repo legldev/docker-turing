@@ -18,6 +18,8 @@ alabaster==1.0.0
     # via sphinx
 annotated-types==0.8.0
     # via pydantic
+ast-serialize==0.7.0
+    # via mypy
 async-timeout==5.0.1 ; python_version < "3.11"
     # via
     #   -r requirements/runtime-deps.in
@@ -105,6 +107,8 @@ jinja2==3.1.6
     # via
     #   sphinx
     #   towncrier
+librt==0.14.0
+    # via mypy
 markdown-it-py==4.2.0
     # via rich
 markupsafe==3.0.2
@@ -116,7 +120,7 @@ multidict==6.7.1
     #   -r requirements/multidict.in
     #   -r requirements/runtime-deps.in
     #   yarl
-mypy==1.16.1 ; implementation_name == "cpython"
+mypy==2.3.0 ; implementation_name == "cpython"
     # via
     #   -r requirements/lint.in
     #   -r requirements/test.in
@@ -131,7 +135,7 @@ packaging==25.0
     #   pytest
     #   sphinx
     #   wheel
-pathspec==0.12.1
+pathspec==1.1.1
     # via mypy
 pip-tools==7.4.1
     # via -r requirements/dev.in
