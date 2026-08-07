@@ -91,7 +91,7 @@ idna==3.6
     #   requests
     #   trustme
     #   yarl
-imagesize==1.4.1
+imagesize==2.0.0
     # via sphinx
 iniconfig==2.1.0
     # via pytest
