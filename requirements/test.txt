@@ -4,7 +4,7 @@
 #
 #    pip-compile --allow-unsafe --output-file=requirements/test.txt --resolver=backtracking --strip-extras requirements/test.in
 #
-aiodns==3.5.0
+aiodns==4.0.4
     # via -r requirements/runtime-deps.in
 aiohappyeyeballs==2.7.1
     # via -r requirements/runtime-deps.in
@@ -83,7 +83,7 @@ propcache==0.5.2
     #   yarl
 proxy-py==2.4.10
     # via -r requirements/test.in
-pycares==4.9.0
+pycares==5.0.1
     # via aiodns
 pycparser==3.0
     # via cffi

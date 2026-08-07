@@ -4,7 +4,7 @@
 #
 #    pip-compile --allow-unsafe --output-file=requirements/lint.txt --strip-extras requirements/lint.in
 #
-aiodns==3.5.0
+aiodns==4.0.4
     # via -r requirements/lint.in
 annotated-types==0.8.0
     # via pydantic
@@ -63,7 +63,7 @@ pre-commit==4.2.0
     # via -r requirements/lint.in
 proxy-py==2.4.10
     # via -r requirements/lint.in
-pycares==4.9.0
+pycares==5.0.1
     # via aiodns
 pycparser==3.0
     # via cffi
