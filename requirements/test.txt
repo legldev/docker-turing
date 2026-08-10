@@ -68,7 +68,7 @@ mypy==2.3.0 ; implementation_name == "cpython"
     # via -r requirements/test.in
 mypy-extensions==1.1.0
     # via mypy
-packaging==26.2
+packaging==26.3
     # via
     #   gunicorn
     #   pytest
