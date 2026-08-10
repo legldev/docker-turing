@@ -284,7 +284,7 @@ uritemplate==4.2.0
     # via gidgethub
 urllib3==2.7.0
     # via requests
-uvloop==0.21.0 ; platform_system != "Windows"
+uvloop==0.22.1 ; platform_system != "Windows"
     # via
     #   -r requirements/base.in
     #   -r requirements/lint.in
