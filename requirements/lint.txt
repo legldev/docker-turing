@@ -18,7 +18,7 @@ cffi==2.1.1
     # via
     #   cryptography
     #   pycares
-cfgv==3.4.0
+cfgv==3.5.0
     # via pre-commit
 click==8.1.8
     # via slotscheck
