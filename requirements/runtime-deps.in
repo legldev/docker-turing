@@ -6,7 +6,7 @@ aiosignal >= 1.4.0
 async-timeout >= 4.0, < 6.0 ; python_version < "3.11"
 Brotli; platform_python_implementation == 'CPython'
 brotlicffi; platform_python_implementation != 'CPython'
-frozenlist >= 1.1.1
+frozenlist >= 1.8.0
 multidict >= 6.7.1, < 7.0
 propcache >= 0.5.2
 yarl >= 1.24.5, < 2.0
