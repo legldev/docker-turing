@@ -90,9 +90,9 @@ pycares==5.0.1
     # via aiodns
 pycparser==3.0
     # via cffi
-pydantic==2.11.7
+pydantic==2.13.4
     # via python-on-whales
-pydantic-core==2.33.2
+pydantic-core==2.46.4
     # via pydantic
 pygments==2.19.2
     # via
@@ -130,7 +130,7 @@ tomli==2.4.1
     #   pytest
 trustme==1.2.1 ; platform_machine != "i686"
     # via -r requirements/test.in
-typing-extensions==4.14.0
+typing-extensions==4.16.0
     # via
     #   aiosignal
     #   cryptography
