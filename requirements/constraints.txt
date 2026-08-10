@@ -61,7 +61,7 @@ cryptography==50.0.0
     # via
     #   pyjwt
     #   trustme
-cython==3.1.2
+cython==3.2.9
     # via -r requirements/cython.in
 distlib==0.4.3
     # via virtualenv
