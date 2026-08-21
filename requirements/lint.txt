@@ -12,7 +12,7 @@ ast-serialize==0.8.0
     # via mypy
 async-timeout==5.0.1
     # via valkey
-blockbuster==1.5.26
+blockbuster==1.5.27
     # via -r requirements/lint.in
 cffi==2.1.1
     # via
